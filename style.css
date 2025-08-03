@@ -1,0 +1,39 @@
+.menu {
+  text-decoration: none;
+  display: flex;
+  column-gap: 20px;
+}
+
+.carousel-item > img {
+  height: 600px;
+  object-fit: cover;
+}
+h2 {
+  text-align: center;
+  padding: 10px;
+}
+footer {
+  background-color: rgb(219, 116, 116);
+  margin: 0;
+  padding: 20px;
+}
+section {
+  margin: 0;
+  padding: 20px;
+  background-color: rgb(219, 116, 116);
+}
+
+header {
+  background-color: rgb(219, 116, 116);
+  margin: 0;
+  padding: 23px;
+}
+
+.Pricing {
+  display: flex;
+  gap: 2.5rem;
+}
+
+.svgs {
+  height: 30px;
+}
